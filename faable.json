@@ -1,4 +1,3 @@
 {
-  "buildpack": "python",
   "startCommand": "python server.py"
 }
